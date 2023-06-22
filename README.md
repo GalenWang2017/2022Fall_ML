@@ -28,6 +28,17 @@ c++11
 1. Logistic regression
 2. EM algorithm
 
-### TODO
+### Homework 5
 
-homework 5~7
+1. Gaussian process
+2. SVM
+
+### Homework 6
+
+1. K-means
+2. normalized cut and ratio cut
+
+### Homework 7
+
+1. PCA and LDA (uncompleted)
+2. t-sne
