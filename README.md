@@ -4,9 +4,11 @@ This repository contains homework 1~4.
 
 ### Requirements:
 
-gnuplot 5.4
-
-c++11
+- gnuplot 5.4
+- c++11
+- python 3.9.14
+- numpy
+- matplotlib
 
 ### Homework 1
 
