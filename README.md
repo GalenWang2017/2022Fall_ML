@@ -40,7 +40,9 @@ This repository contains homework 1~4.
 1. K-means
 2. normalized cut and ratio cut
 
-### Homework 7
+### Homework 7 
 
-1. PCA and LDA (uncompleted)
+(Only requirements of this homework)
+
+1. PCA and LDA
 2. t-sne
